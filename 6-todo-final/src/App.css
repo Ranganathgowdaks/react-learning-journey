@@ -1,0 +1,13 @@
+
+input{
+  width: 100%;
+  margin-top: 10px;
+}
+.input-row{
+  text-align: left;
+}
+.button-rg{
+min-width: 80px;
+margin: 6px 3px;
+
+}
